@@ -1,6 +1,8 @@
 {
   "development": {
     "database": "gps_tracker_development",
+    "username": "pi",
+    "password": "metroid",
     "host": "127.0.0.1",
     "dialect": "postgres"
   },
